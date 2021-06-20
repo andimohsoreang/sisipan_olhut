@@ -1,0 +1,22 @@
+body {font-family: Arial;
+    background-color: white;}
+
+h1 {font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  background-color: white;
+  color: black;}
+
+#container {width: 700px;
+          border: 0px solid;
+          margin: 0px auto;
+          color: black;
+          text-align: justify;}
+
+table {width: 700px;
+      padding-left: 20px;}
+
+#ttd {width: 700px;
+    text-align: center;
+    float: right;
+    padding-right: 100px;}
